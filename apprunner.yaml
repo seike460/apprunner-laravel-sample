@@ -5,4 +5,4 @@ build:
     build:
       - echo example build command for PHP
 run:
-  command: php -S 0.0.0.0:8080 -t .
+  command: php -S 0.0.0.0:8080 -t public/
